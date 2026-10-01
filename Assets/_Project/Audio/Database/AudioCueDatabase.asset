@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05a285f1e7554e95937f9eadc94ad785, type: 3}
+  m_Name: AudioCueDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::template.Audio.AudioCueDatabaseSO
+  cues:
+  - {fileID: 11400000, guid: dd3c7abd4b66754489a50d7799b804dd, type: 2}
+  - {fileID: 11400000, guid: e60a37e1e81633a429ab1df176b6bf7b, type: 2}
